@@ -121,9 +121,6 @@ footer a {
 }
 
 @media screen and (width < 576px) {
-    body {
-        color: red;
-    }
 
     nav {
         justify-content: center;
